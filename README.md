@@ -29,12 +29,12 @@
 
 ### 1.2 Sintaxe Básica
 
-- [ ] Tags PHP (`<?php`, `<?=`, diferença entre elas)
-- [ ] Comentários (`//`, `#`, `/* */`)
-- [ ] `echo` vs `print` — diferenças e quando usar
-- [ ] `var_dump()`, `print_r()`, `var_export()` para debug
-- [ ] Ponto e vírgula e boas práticas de formatação
-- [ ] Case sensitivity no PHP (variáveis vs funções)
+- [✅] Tags PHP (`<?php`, `<?=`, diferença entre elas)
+- [✅] Comentários (`//`, `#`, `/* */`)
+- [✅] `echo` vs `print` — diferenças e quando usar
+- [✅] `var_dump()`, `print_r()`, `var_export()` para debug
+- [✅] Ponto e vírgula e boas práticas de formatação
+- [✅] Case sensitivity no PHP (variáveis vs funções)
 
 ### 1.3 Tipos de Dados e Variáveis
 
