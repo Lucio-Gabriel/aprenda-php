@@ -19,13 +19,13 @@
 
 ### 1.1 Ambiente de Desenvolvimento
 
-- [ ] Instalar PHP via pacote (XAMPP, Laragon ou instalação nativa)
-- [ ] Entender o que é o `php.ini` e suas configurações principais
-- [ ] Configurar o PHP CLI (rodar scripts pelo terminal)
-- [ ] Usar o servidor embutido do PHP (`php -S localhost:8000`)
-- [ ] Instalar e configurar o Composer (gerenciador de dependências)
-- [ ] Configurar um editor (VS Code com extensões PHP Intelephense, PHP CS Fixer)
-- [ ] Entender a estrutura de um projeto PHP básico
+- [✅] Instalar PHP via pacote (XAMPP, Laragon ou instalação nativa)
+- [✅] Entender o que é o `php.ini` e suas configurações principais
+- [✅] Configurar o PHP CLI (rodar scripts pelo terminal)
+- [✅] Usar o servidor embutido do PHP (`php -S localhost:8000`)
+- [✅] Instalar e configurar o Composer (gerenciador de dependências)
+- [✅] Configurar um editor (VS Code com extensões PHP Intelephense, PHP CS Fixer)
+- [✅] Entender a estrutura de um projeto PHP básico
 
 ### 1.2 Sintaxe Básica
 
