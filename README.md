@@ -38,10 +38,10 @@
 
 ### 1.3 Tipos de Dados e Variáveis
 
-- [ ] Variáveis (`$nome`) e convenções de nomenclatura
-- [ ] Tipos escalares: `string`, `int`, `float`, `bool`
-- [ ] Tipos compostos: `array`, `object`
-- [ ] Tipos especiais: `null`, `resource`
+- [✅] Variáveis (`$nome`) e convenções de nomenclatura
+- [✅] Tipos escalares: `string`, `int`, `float`, `bool`
+- [✅] Tipos compostos: `array`, `object`
+- [✅] Tipos especiais: `null`, `resource`
 - [ ] `gettype()` e `settype()`
 - [ ] Tipagem dinâmica vs tipagem estática (declarações de tipo)
 - [ ] Constantes com `define()` e `const`
