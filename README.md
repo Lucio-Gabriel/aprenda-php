@@ -58,22 +58,22 @@
 - [✅] Concatenação (`.`)
 - [✅] Operador ternário (`? :`)
 - [✅] Operador null coalescing (`??`)
-- [ ] Operador de supressão de erros `@` (e por que evitá-lo)
-- [ ] Operador spread (`...`)
+- [✅] Operador de supressão de erros `@` (e por que evitá-lo)
+- [✅] Operador spread (`...`)
 
 ### 1.5 Estruturas de Controle
 
-- [ ] `if`, `elseif`, `else`
-- [ ] Sintaxe alternativa (`if(): ... endif;`)
-- [ ] `switch` / `case`
-- [ ] `match` (PHP 8+) e diferenças para `switch`
-- [ ] `while`
-- [ ] `do...while`
-- [ ] `for`
-- [ ] `foreach` com chave e valor
-- [ ] `break` e `continue` com níveis
-- [ ] `return`
-- [ ] Operador de navegação segura (`?->`) PHP 8+
+- [✅] `if`, `elseif`, `else`
+- [✅] Sintaxe alternativa (`if(): ... endif;`)
+- [✅] `switch` / `case`
+- [✅] `match` (PHP 8+) e diferenças para `switch`
+- [✅] `while`
+- [✅] `do...while`
+- [✅] `for`
+- [✅] `foreach` com chave e valor
+- [✅] `break` e `continue` com níveis
+- [✅] `return`
+- [✅] Operador de navegação segura (`?->`) PHP 8+
 
 ### 1.6 Strings
 
